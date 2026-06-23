@@ -1,7 +1,7 @@
 # FlewNixe 发布版使用说明
 
 本目录包含以下发布文件：
-
+版本 1.5.4
 - `FlewNixe_Windows_amd64.exe`
 - `FlewNixe_Linux_amd64`
 - `FlewNixe_Android_arm64`
